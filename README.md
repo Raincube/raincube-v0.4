@@ -1,4 +1,4 @@
-# raincube-v0.4
+# Raincube-v0.4
 Decentralized IoT Water Management System
 
 All hardware design files relate to an IoT based water management system prototype designed for Raincube LLC as Raincube v0.4. The single board microcontroller is an early model designed to test all active features, current operational concepts, and a series of new design ideas for future iterations. 
